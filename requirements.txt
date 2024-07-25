@@ -1,0 +1,17 @@
+# This file is used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+
+# Wake word, speech to text, text to speech
+pvporcupine
+
+# Audio lib
+pyaudio
+
+# Some math stuff for silence detect
+numpy
+
+# TTS
+piper-tts
+
+# Config stuff
+python-dotenv
